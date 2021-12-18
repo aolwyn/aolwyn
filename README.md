@@ -3,6 +3,7 @@
 - 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools
 - 🌱 I just finished programming a tower defence game with a team, and am now learning Python! I am practicing my data structures and algorithms, and I am looking to learn about AI and machine learning! 
 - 📫 How to reach me: adambayley2@gmail.com
+- https://www.linkedin.com/in/adam-bayley-4b6611227 (WIP!)
 - I am currently looking for summer internships!
 
 <!---
