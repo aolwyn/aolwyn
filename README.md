@@ -7,8 +7,8 @@
 - 🌱 I just finished programming a tower defence game with a team, and am now learning/practicing Python! I am also practicing my data structures and algorithms, and I am looking to learn about AI and machine learning! 
 
 - 📫 How to reach me: adambayley2@gmail.com
-- https://www.linkedin.com/in/adam-bayley-4b6611227 (WIP!)
-- **I am currently looking for summer internships!**
+- https://www.linkedin.com/in/adam-bayley-4b6611227 
+- **I am currently working at Cooktop Safety for the Summer as a Lab Assistant and Developer**
 
 <!---
 aolwyn/aolwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
