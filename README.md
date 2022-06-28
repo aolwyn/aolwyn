@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. (in 3rd year)
+- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. (entering 4rd year)
 
 - 👀 I’m interested in swimming, video games, reading, and the medical applications of coding! 
 
