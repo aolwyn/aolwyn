@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. (entering 4rd year)
+- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. ( 4th year )
 
 - 👀 I’m interested in swimming, video games, reading, and the medical applications of coding! 
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me: adambayley2@gmail.com
 - https://www.linkedin.com/in/adam-bayley-4b6611227 
-- **I am currently working at Cooktop Safety for the Summer as a Lab Assistant and Developer**
 
 <!---
 aolwyn/aolwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
