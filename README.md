@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. ( 4th year )
 
-- 👀 I’m interested in swimming, video games, reading, and the medical applications of coding! 
+- 👀 I’m interested in swimming, video games, reading
 
-- 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools
-
-- 🌱 I just finished programming a tower defence game with a team, and am now learning/practicing Python! I am also practicing my data structures and algorithms, and I am looking to learn about AI and machine learning! 
+- 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools. In terms of Tech industry experience, I've completed a hackathon, worked as a computer lab assistant doing dev + experimental work, and done some software projects on the side.
 
 - 📫 How to reach me: adambayley2@gmail.com
 - https://www.linkedin.com/in/adam-bayley-4b6611227 
