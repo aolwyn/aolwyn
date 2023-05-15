@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a student at Queen's University (Kingston, ON) studying computer engineering. ( 4th year )
+- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a recent graduate of Queen's University (Kingston, ON, studied computer engineering)
 
 - I go by Aolwyn, 19ahb, and Adam
 
 - 👀 I’m interested in swimming, video games, reading
 
-- 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools. In terms of Tech industry experience, I've completed a hackathon, worked as a computer lab assistant doing dev + experimental work, and done some software projects on the side.
+- 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools. In terms of Tech industry experience, I've completed hackathons, worked as a computer lab assistant doing dev + experimental work, and done some software projects on the side.
 
-- 👷 Currently learning front-end 'properly'
+- 👷 Currently relaxing, applying for jobs (as seen below!)
 
 - I AM CURRENTLY LOOKING FOR NEW-GRADUATE JOBS.
 
