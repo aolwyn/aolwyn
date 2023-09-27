@@ -10,7 +10,7 @@
 
 - I AM CURRENTLY LOOKING FOR NEW-GRADUATE JOBS.
 
-- 📫 How to reach me: 19ahb@queensu.ca
+- 📫 How to reach me: adambayley2@gmail.com or 19ahb@queensu.ca
 - https://www.linkedin.com/in/adam-bayley-4b6611227 
 
 <!---
