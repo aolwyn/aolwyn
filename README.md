@@ -6,10 +6,6 @@
 
 - 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools. In terms of Tech industry experience, I've completed hackathons, worked as a computer lab assistant doing dev + experimental work, and done some software projects on the side.
 
-- 👷 Currently relaxing, applying for jobs (as seen below!)
-
-- I AM CURRENTLY LOOKING FOR NEW-GRADUATE JOBS.
-
 - 📫 How to reach me: adambayley2@gmail.com or 19ahb@queensu.ca
 - https://www.linkedin.com/in/adam-bayley-4b6611227 
 
