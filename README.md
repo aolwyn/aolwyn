@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aolwyn (Adam Bayley). I have a BASc in CE from Queen's University and am a current MASc candidate, specializing in AI.
+- 👋 Hi, I’m @aolwyn (<strong>Adam Bayley</strong>). I have a BASc in CE from Queen's University and am a current MASc candidate, specializing in AI.
 
 - Regarding public handles, I work under `aolwyn` , `19ahb` , or just my name.
 
