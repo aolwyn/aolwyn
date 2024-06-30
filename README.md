@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @aolwyn (Adam Bayley). I'm a recent graduate of Queen's University (Kingston, ON, studied computer engineering)
+- 👋 Hi, I’m @aolwyn (Adam Bayley). I have a BASc in CE from Queen's University and am a current MASc candidate, specializing in AI.
 
-- I go by Aolwyn, 19ahb, and Adam
+- Regarding public handles, I work under `aolwyn` , `19ahb` , or just my name.
 
 - 👀 I’m interested in swimming, video games, reading
 
 - 🔨 I have  played and privately-coached CS:GO at an amateur / professional level, tutored introductory coding and first year math, and lifeguarded at outdoor pools. In terms of Tech industry experience, I've completed hackathons, worked as a computer lab assistant doing dev + experimental work, and done some software projects on the side.
 
-- 📫 How to reach me: adambayley2@gmail.com or 19ahb@queensu.ca
+- 📫 How to reach me: `adambayley2@gmail.com` or `19ahb@queensu.ca`
 - https://www.linkedin.com/in/adam-bayley-4b6611227 
 
 <!---
