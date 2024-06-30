@@ -7,19 +7,19 @@
 - In terms of past employment and work,
 <ul>
   <li>
-    I have worked as a laboratory assistant where I developed data pipelines, from raw data collection to machine learning models. 
+    - I have worked as a laboratory assistant where I developed data pipelines, from raw data collection to machine learning models. 
   </li>
   <li>
-    Worked in a small team as an undergraduate teaching assistant for an embedded robotics Arduino-based course.
+    - Worked in a small team as an undergraduate teaching assistant for an embedded robotics Arduino-based course.
   </li>
   <li>
-    Led the software side of my university's Baja SAE Design Team.
+    - Led the software side of my university's Baja SAE Design Team.
   </li>
   <li>
-    I've had the opportunity to both play and coach CS:GO at the amateur/collegiate/professional level. Though I am no longer actively playing, I play within the top 1% of players in other titular games.
+    - I've had the opportunity to both play and coach CS:GO at the amateur/collegiate/professional level. Though I am no longer actively playing, I play within the top 1% of players in other titular games.
   </li>
   <li>
-    I have been a lifeguard in both public and private settings.
+    - I have been a lifeguard in both public and private settings.
   </li>
 </ul> 
 
