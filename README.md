@@ -25,7 +25,7 @@ In terms of past employment and work,
 
 👀 Outside of work, you'll find me reading, swimming, running, or drinking a cup of coffee ☕.
 
-📫 How to reach me: `adambayley2@gmail.com` or `19ahb@queensu.ca`
+📫 How to reach me: `adambayley2@gmail.com` or `19ahb@queensu.ca` , 
 [LinkedIn](https://www.linkedin.com/in/adam-bayley-4b6611227)
  
 
