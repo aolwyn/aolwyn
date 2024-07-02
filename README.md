@@ -16,7 +16,7 @@ In terms of past employment and work,
     Led the software side of my university's Baja SAE Design Team.
   </li>
   <li>
-    I've had the opportunity to both play and coach CS:GO at the amateur/collegiate/professional level. Though I am no longer actively playing, I play within the top 1% of players in other titular games.
+    I've had the opportunity to both play and coach CS:GO at the amateur/collegiate/professional level. Though I am no longer actively playing, I play within the top 1% of players in other title games.
   </li>
   <li>
     I have been a lifeguard in both public and private settings.
