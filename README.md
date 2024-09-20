@@ -2,12 +2,15 @@
 
 Regarding public handles, I work under `aolwyn` , `19ahb` , or just my name.
 
-🔨 I am currently working as a software engineer.
+🔨 I am currently working towards my MASc with a field study in AI. I am a member of the Text and Machine Learning (TAML) lab @ Queen's University, under the supervision of Professor Xiaodan Zhu.
 
 In terms of past employment and work,
 <ul>
   <li>
-    I have worked as a laboratory assistant where I developed data pipelines, from raw data collection to machine learning models. 
+    As a software engineer, worked in a team of 2 to develop a mobile app built in flutter that uses BLE to communicate with a smart home device and control it.
+  </li>
+  <li>
+    Worked as a laboratory assistant where I developed data pipelines, from raw data collection to machine learning models. 
   </li>
   <li>
     Worked in a small team as an undergraduate teaching assistant for an embedded robotics Arduino-based course.
