@@ -1,36 +1,24 @@
-👋 Hi, I’m <strong><em>Adam Bayley</em></strong>. I have a BASc in CE from Queen's University and am a current MASc candidate, specializing in AI.
+👋 Hi, I'm **Adam Bayley**. I have a BASc in Computer Engineering from Queen's University and I'm pursuing an MASc with a field study in AI (also at Queen's).
 
-Regarding public handles, I work under `aolwyn` , `19ahb` , or just my name.
+### Current Position
+- **MASc Candidate**: Specializing in AI at Queen's University under Prof. Xiaodan Zhu.
+- **Text and Machine Learning (TAML) Lab Member**.
 
-🔨 I am currently working towards my MASc with a field study in AI. I am a member of the Text and Machine Learning (TAML) lab @ Queen's University, under the supervision of Professor Xiaodan Zhu.
+### Experience
+- Developed a Flutter mobile app for smart home device control via BLE.
+- Built data pipelines from collection to machine learning models.
+- TA for an undergraduate Arduino-based robotics course.
+- Software lead for university's Baja SAE Design Team.
+- Coached and competed in CS:GO; played top 1% in other titles.
+- Worked as a lifeguard in various settings.
 
-In terms of past employment and work,
-<ul>
-  <li>
-    As a software engineer, worked in a team of 2 to develop a mobile app built in flutter that uses BLE to communicate with a smart home device and control it.
-  </li>
-  <li>
-    Worked as a laboratory assistant where I developed data pipelines, from raw data collection to machine learning models. 
-  </li>
-  <li>
-    Worked in a small team as an undergraduate teaching assistant for an embedded robotics Arduino-based course.
-  </li>
-  <li>
-    Led the software side of my university's Baja SAE Design Team.
-  </li>
-  <li>
-    I've had the opportunity to both play and coach CS:GO at the amateur/collegiate/professional level. Though I am no longer actively playing, I play within the top 1% of players in other title games.
-  </li>
-  <li>
-    I have been a lifeguard in both public and private settings.
-  </li>
-</ul> 
+### Interests
+Outside of work, I enjoy reading, swimming, running, and coffee ☕.
 
-👀 Outside of work, you'll find me reading, swimming, running, or drinking a cup of coffee ☕.
+### Contact Me
+- 📧 Email: [adambayley2@gmail.com](mailto:adambayley2@gmail.com) or [19ahb@queensu.ca](mailto:19ahb@queensu.ca)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adam-bayley-4b6611227)
 
-📫 How to reach me: `adambayley2@gmail.com` or `19ahb@queensu.ca` , 
-[LinkedIn](https://www.linkedin.com/in/adam-bayley-4b6611227)
- 
 
 <!---
 aolwyn/aolwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
