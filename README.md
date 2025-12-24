@@ -4,8 +4,9 @@
 - **MASc Candidate**: Specializing in AI at Queen's University under Prof. Xiaodan Zhu.
 - **Text and Machine Learning (TAML) Lab Member**.
 
-### Experience (Employment)
+### Experience (Employment/Internship-Based)
 - Developed a Flutter mobile app for smart home device control via BLE.
+- Worked on mathematical analysis + development of transfer learning from LLM-based synthetic data --> reinforcement learning recommender systems.
 - Built data pipelines from collection to machine learning models.
 - TA for an undergraduate Arduino-based robotics course.
 - Software lead for my university's Baja SAE Design Team.
